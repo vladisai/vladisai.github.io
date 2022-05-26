@@ -1,6 +1,5 @@
 remote_theme: BDHU/minimalist
 title: Vlad Sobal
-description: Vlad's personal page
 
 theme: jekyll-theme-minimal
 
@@ -17,4 +16,7 @@ sidebar:
     link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vladisai
+  - name: CV
+    icon: <i class="fa-solid fa-file"></i>
     link: https://github.com/vladisai
