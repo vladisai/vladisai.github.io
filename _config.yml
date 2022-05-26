@@ -1,3 +1,5 @@
 remote_theme: vladisai/tale
 title: Vlad Sobol
 description: hi
+
+theme: jekyll-theme-minimal
