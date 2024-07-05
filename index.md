@@ -7,13 +7,13 @@ Before this I completed my undergrad at the University of Warsaw in Poland,
 and did internships at Google, Nvidia and Jane Street.
 
 # Publications
-1. [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/pdf/2405.18418)
+1. [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/pdf/2405.18418)\
     Nicklas Hansen, Jyothir S V, **Vlad Sobal**, Yann LeCun, Xiaolong Wang, Hao Su
 
-2. [Gradient-based Planning with World Models](https://arxiv.org/pdf/2312.17227)
+2. [Gradient-based Planning with World Models](https://arxiv.org/pdf/2312.17227)\
     Jyothir S V, Siddhartha Jalagam, Yann LeCun, **Vlad Sobal**
 
-3. [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)
+3. [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)\
     Joint work with many other collaborators, contributed the section on RL
    
 3. [Light-weight probing of unsupervised representations for Reinforcement Learning](https://arxiv.org/abs/2208.12345)\
