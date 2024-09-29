@@ -1,10 +1,11 @@
 # About
 I'm an n-th year PhD student in Data Science at New York University advised by Yann LeCun and Kyunghyun Cho. 
-I'm also currently a visiting researcher at Meta.
-I'm interested in self-driving, model-based reinforcement learning, self-supervised pre-training and unsupervised exploration in RL.
+I'm also currently a visiting researcher at Meta AI Research.
+I'm broadly interested in representation learning, world models, planning, reinforcement learning, and autonomous vehicles.\
+**I'm on the job market!**
 
-Before this I completed my undergrad at the University of Warsaw in Poland,
-and did internships at Google, Nvidia and Jane Street.
+Before, I completed my undergrad at the University of Warsaw in Poland. I also have extensive industry experience from doing internships at
+at Google, Nvidia and Jane Street.
 
 # Publications
 1. [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134)\
