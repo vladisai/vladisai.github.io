@@ -8,6 +8,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  
+logo: photo.jpeg
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
@@ -17,8 +19,15 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/vladisai
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linked-in"></i>
+    link: https://www.linkedin.com/in/vladisai/
+  - name: Twitter
+    icone: <i class="fa-brands fa-twitter"></i>
+    link: https://x.com/vlad_is_ai
   - name: CV
     icon: <i class="fa-solid fa-file"></i>
     link: https://raw.githubusercontent.com/vladisai/vladisai.github.io/master/CV.pdf
   - name: Email us441 at nyu edu
     icon: <i class="fa fa-envelope"></i>
+  
