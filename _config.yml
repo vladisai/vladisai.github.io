@@ -20,10 +20,10 @@ sidebar:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/vladisai
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linked-in"></i>
+    icon: <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
     link: https://www.linkedin.com/in/vladisai/
   - name: Twitter
-    icone: <i class="fa-brands fa-twitter"></i>
+    icone: <i class="fa-brands fa-twitter" aria-hidden="true"></i>
     link: https://x.com/vlad_is_ai
   - name: CV
     icon: <i class="fa-solid fa-file"></i>
