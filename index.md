@@ -18,11 +18,12 @@ at Google, Nvidia and Jane Street.
 
 5. [Gradient-based Planning with World Models](https://arxiv.org/pdf/2312.17227)\
     Jyothir S V, Siddhartha Jalagam, Yann LeCun, **Vlad Sobal**
+   (Generative Models for Decision Making Workshop at ICLR 2024)
 
-6. [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)\
+7. [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)\
     Joint work with many other collaborators, contributed the section on RL
    
-7. [Light-weight probing of unsupervised representations for Reinforcement Learning](https://arxiv.org/abs/2208.12345)\
+8. [Light-weight probing of unsupervised representations for Reinforcement Learning](https://arxiv.org/abs/2208.12345)\
    Wancong Zhang, Anthony GX-Chen, **Vlad Sobal**, Yann LeCun, Nicolas Carion'
    (Reinforcement Learning Conference 2024)
 
