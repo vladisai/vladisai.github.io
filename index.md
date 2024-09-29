@@ -7,7 +7,7 @@ Before this I completed my undergrad at the University of Warsaw in Poland,
 and did internships at Google, Nvidia and Jane Street.
 
 # Publications
-1. [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134)
+1. [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134)\
     **Vlad Sobal**, Mark Ibrahim, Randall Balestriero, Vivien Cabannes, Diane Bouchacourt, Pietro Astolfi, Kyunghyun Cho, Yann LeCun
    (Submitted to ICLR 2025)
 
