@@ -17,7 +17,7 @@ at Google, Nvidia and Jane Street.
    (Submitted to ICLR 2025)
 
 5. [Gradient-based Planning with World Models](https://arxiv.org/pdf/2312.17227)\
-    Jyothir S V, Siddhartha Jalagam, Yann LeCun, **Vlad Sobal**
+    Jyothir S V, Siddhartha Jalagam, Yann LeCun, **Vlad Sobal**\
    (Generative Models for Decision Making Workshop at ICLR 2024)
 
 7. [A Cookbook of Self-Supervised Learning](https://arxiv.org/abs/2304.12210)\
