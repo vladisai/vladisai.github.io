@@ -8,11 +8,11 @@ and did internships at Google, Nvidia and Jane Street.
 
 # Publications
 1. [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/pdf/2407.18134)\
-    **Vlad Sobal**, Mark Ibrahim, Randall Balestriero, Vivien Cabannes, Diane Bouchacourt, Pietro Astolfi, Kyunghyun Cho, Yann LeCun
+    **Vlad Sobal**, Mark Ibrahim, Randall Balestriero, Vivien Cabannes, Diane Bouchacourt, Pietro Astolfi, Kyunghyun Cho, Yann LeCun\
    (Submitted to ICLR 2025)
 
 3. [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/pdf/2405.18418)\
-    Nicklas Hansen, Jyothir S V, **Vlad Sobal**, Yann LeCun, Xiaolong Wang, Hao Su
+    Nicklas Hansen, Jyothir S V, **Vlad Sobal**, Yann LeCun, Xiaolong Wang, Hao Su\
    (Submitted to ICLR 2025)
 
 5. [Gradient-based Planning with World Models](https://arxiv.org/pdf/2312.17227)\
