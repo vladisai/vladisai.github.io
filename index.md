@@ -1,8 +1,6 @@
 # About
-I'm an n-th year PhD student in Data Science at New York University advised by Yann LeCun and Kyunghyun Cho. 
-I'm also currently a visiting researcher at Meta AI Research.
-I'm broadly interested in representation learning, world models, planning, reinforcement learning, and autonomous vehicles.\
-**I'm on the job market!**
+I'm currently an Applied Scientist at Amazon AWS Fundamental Research Team, working on LLMs and agents. Before that, I was a PhD student in Data Science at New York University advised by Yann LeCun and Kyunghyun Cho. During my PhD, I was also a visiting researcher at Meta AI Research from October 2022 to October 2024.
+I'm broadly interested in representation learning, world models, planning, reinforcement learning, and autonomous vehicles.
 
 Before, I completed my undergrad at the University of Warsaw in Poland. I also have extensive industry experience from doing internships at
 at Google, Nvidia and Jane Street.
