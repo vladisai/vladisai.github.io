@@ -9,7 +9,7 @@ at Google, Nvidia and Jane Street.
 Ordered chronologically:
 1. [Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](https://latent-planning.github.io/)\
    **Vlad Sobal**, Wancong Zhang, Kyunghyun Cho, Randall Balestriero, Tim G. J. Rudner, Yann LeCun\
-   (Conference on Neural Information Processing Systems (NeurIPS) 2025)
+   (Conference on Neural Information Processing Systems (NeurIPS) 2025) \
    (**Best Paper Award at ICML 2025 Building Physically Plausible World Models Workshop**)
 
 3. [X-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs](https://arxiv.org/abs/2407.18134)\
