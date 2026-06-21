@@ -1,4 +1,4 @@
-remote_theme: BDHU/minimalist
+remote_theme: BDHU/minimalist@f19d6a6
 title: Vlad Sobal
 
 theme: jekyll-theme-minimal
@@ -30,4 +30,3 @@ sidebar:
     link: https://raw.githubusercontent.com/vladisai/vladisai.github.io/master/CV.pdf
   - name: Email us441 at nyu edu
     icon: <i class="fa fa-envelope"></i>
-  
