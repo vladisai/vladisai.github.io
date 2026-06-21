@@ -7,7 +7,11 @@ at Google, Nvidia and Jane Street.
 
 # Publications
 Ordered chronologically:
-1. [Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](https://latent-planning.github.io/)\
+1. [StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns](https://arxiv.org/abs/2606.19613)
+   **Vlad Sobal**, Shuo Yang, Yuting Zhang, Wei Xia, Stefano Soatto
+   (Under review)
+
+2. [Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](https://latent-planning.github.io/)\
    **Vlad Sobal**, Wancong Zhang, Kyunghyun Cho, Randall Balestriero, Tim G. J. Rudner, Yann LeCun\
    (Conference on Neural Information Processing Systems (NeurIPS) 2025) \
    (**Best Paper Award at ICML 2025 Building Physically Plausible World Models Workshop**)
